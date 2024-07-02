@@ -66,3 +66,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravelcrud
 # laravelcrud
+![Captura de pantalla 2024-07-02 001519](https://github.com/mariomarquesto/laravelcrud/assets/99926074/89deba1f-4145-44f4-9f44-a9e38be7bd91)
+
+![Captura de pantalla 2024-07-02 001608](https://github.com/mariomarquesto/laravelcrud/assets/99926074/2ad246a8-cb8b-4ff2-a866-8f7fc1a5cbdb)
+
+![Captura de pantalla 2024-07-02 001543](https://github.com/mariomarquesto/laravelcrud/assets/99926074/9e771861-17a9-441a-88c6-6536c65a6603)
+
+![Captura de pantalla 2024-07-02 001631](https://github.com/mariomarquesto/laravelcrud/assets/99926074/388db03c-3b40-4c0a-9c24-c98feae35d33)
